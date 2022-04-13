@@ -78,6 +78,7 @@ collections:
         options:
           - { label: "StaffNet", value: "StaffNet" }
           - { label: "Archivematica", value: "Archivematica" }
+          - { label: "EZproxy", value: "EZproxy" }
           - { label: "Website", value: "Website" }
 
       - label: "Twitter feed"
