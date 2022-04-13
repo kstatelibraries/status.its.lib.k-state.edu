@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ClearStatus systems status page</title><link>/</link><description>Past events</description><language>en</language><lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Main site server upgrade</title><link>/issues/2019-04-03-scheduled-server-upgrade/</link><pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate><guid>/issues/2019-04-03-scheduled-server-upgrade/</guid><category/><description>&lt;p>Our hosting company needs to perform some software updates on our main website server. These updates require restarting the machine which implies some downtime.
+&lt;br>
+This maintenance should not last more than a few minutes or cause any other perturbation.
+&lt;br>
+Sorry about the trouble!
+\&lt;/p></description></item><item><title>[Resolved] Connectivity failure</title><link>/issues/2019-03-30-connectivity-issue/</link><pubDate>Sat, 30 Mar 2019 20:03:00 +0000</pubDate><guid>/issues/2019-03-30-connectivity-issue/</guid><category>2019-03-30 20:45:19</category><description>&lt;p>Both our website and customer support area cannot be reached at the moment. We are investigating the matter.
+&lt;br>
+&lt;strong>Issue identified:&lt;/strong> Our hosting company has informed us of a failure in the datacenter network equipment. They are working on it and expect a quick resolution.
+&lt;span class="block text-grey-darker">(20:08 — Mar 30)&lt;/span>
+&lt;br>
+&lt;strong>Monitoring:&lt;/strong> The equipment in question has been replaced and website and support site can be reached. We are monitoring the servers for the next few minutes to be sure all is OK.
+&lt;span class="block text-grey-darker">(20:31 — Mar 30)&lt;/span>
+&lt;br>
+&lt;strong>Resolved:&lt;/strong> Both servers are operating normally, issue is solved. Really sorry about the trouble!
+\&lt;/p></description></item></channel></rss>
