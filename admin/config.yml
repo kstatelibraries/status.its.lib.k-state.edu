@@ -76,8 +76,9 @@ collections:
         widget: "select"
         multiple: true
         options:
+          - { label: "StaffNet", value: "StaffNet" }
+          - { label: "Archivematica", value: "Archivematica" }
           - { label: "Website", value: "Website" }
-          - { label: "Helpdesk", value: "Helpdesk" }
 
       - label: "Twitter feed"
         name: "twitterFeed"
