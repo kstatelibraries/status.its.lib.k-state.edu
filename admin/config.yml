@@ -76,9 +76,10 @@ collections:
         widget: "select"
         multiple: true
         options:
-          - { label: "StaffNet", value: "StaffNet" }
           - { label: "Archivematica", value: "Archivematica" }
+          - { label: "AtoM", value: "AtoM" }
           - { label: "EZproxy", value: "EZproxy" }
+          - { label: "StaffNet", value: "StaffNet" }
           - { label: "Website", value: "Website" }
 
       - label: "Twitter feed"
