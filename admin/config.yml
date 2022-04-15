@@ -76,6 +76,7 @@ collections:
         widget: "select"
         multiple: true
         options:
+          - { label: "Alma", value: "Alma" }
           - { label: "Archivematica", value: "Archivematica" }
           - { label: "AtoM", value: "AtoM" }
           - { label: "EZproxy", value: "EZproxy" }
