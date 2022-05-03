@@ -2,6 +2,8 @@
 ## Hugo ClearStatus config
 ############################################################
 
+baseUrl: "https://status.its.lib.k-state.edu"
+
 # Complete page title
 title: K-State Libraries Internal Systems Status Page
 
