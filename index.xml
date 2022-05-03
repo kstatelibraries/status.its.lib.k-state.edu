@@ -1,12 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>K-State Libraries Internal Systems Status Page</title><link>https://status.its.lib.k-state.edu/</link><description>Past events</description><language>en</language><lastBuildDate>Sat, 07 May 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://status.its.lib.k-state.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Scheduled ILLiad Maintenance</title><link>https://status.its.lib.k-state.edu/issues/2022-05-07-oclc-illiad-planned-maintenance/</link><pubDate>Sat, 07 May 2022 23:00:00 +0000</pubDate><guid>https://status.its.lib.k-state.edu/issues/2022-05-07-oclc-illiad-planned-maintenance/</guid><category>2022-05-08 03:05:00</category><description>&lt;blockquote>
-&lt;p>System maintenance is scheduled to start at 2022-05-07 23:00 Central Time through 2022-05-08 03:05 Central Time affecting the following services:&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>OCLC is performing maintenance that might intermittently impact access to various products and services. If you experience problems, please retry your request. While we schedule maintenance on dates and times to minimize service disruption to our members worldwide, we recognize that this work might impact some users. We apologize for any disruption this may cause, and we appreciate your support and patience.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>ILLiad&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>There are no enhancements with this event. Check the OCLC System Status Dashboard to determine if this event completes ahead of schedule. All times are displayed in 24-hour format.&lt;/p>
-&lt;/blockquote></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>K-State Libraries Internal Systems Status Page</title><link>https://status.its.lib.k-state.edu/</link><description>Past events</description><language>en</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://status.its.lib.k-state.edu/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
