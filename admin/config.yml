@@ -80,7 +80,9 @@ collections:
           - { label: "Archivematica", value: "Archivematica" }
           - { label: "AtoM", value: "AtoM" }
           - { label: "EZproxy", value: "EZproxy" }
+          - { label: "ILLiad", value: "ILLiad" }
           - { label: "K-REx", value: "K-REx" }
+          - { label: "OCLC", value: "OCLC" }
           - { label: "StaffNet", value: "StaffNet" }
           - { label: "Website", value: "Website" }
 
