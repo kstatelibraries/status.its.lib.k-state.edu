@@ -20,7 +20,7 @@ pinned:
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
-max_severity: monitoring
+max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
@@ -72,5 +72,9 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+
+Update 6/3/2022 at 1:16PM
+StaffNet will be unavailable today 6/3/2022 from 2PM-2:30PM so an Emergency Patch can be applied.
+***
 
 Due to an unpatched critical vulnerability in the software that runs StaffNet, we have restricted access to campus. If you need to access StaffNet from off-campus you will need to utilize the [VPN](https://www.k-state.edu/it/security/secure-data/vpn/index.html). Once a patched version is released, we will schedule maintenance to apply the fix, and relax the restrictions at that point. 
