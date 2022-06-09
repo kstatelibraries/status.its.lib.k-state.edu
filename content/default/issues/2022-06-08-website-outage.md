@@ -7,7 +7,7 @@ draft: false
 date: 2022-06-02 17:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "scheduled"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-# resolved_on: 2022-06-03 14:13:00
+resolved_on: 2022-06-08 18:40:00
 
 # Affected components, must use exact names defined in site config
 affected:
