@@ -77,8 +77,10 @@ collections:
         multiple: true
         options:
           - { label: "Alma", value: "Alma" }
+          - { label: "Annex", value: "Annex" }
           - { label: "Archivematica", value: "Archivematica" }
           - { label: "AtoM", value: "AtoM" }
+          - { label: "Executive Court", value: "Executive Court" }
           - { label: "EZproxy", value: "EZproxy" }
           - { label: "ILLiad", value: "ILLiad" }
           - { label: "K-REx", value: "K-REx" }
