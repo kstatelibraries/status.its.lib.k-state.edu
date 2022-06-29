@@ -7,7 +7,7 @@ draft: false
 date: 2022-06-29 12:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "scheduled"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,7 +24,7 @@ max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: ok
+current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
 resolved_on: 2022-06-29 13:00:00
@@ -73,4 +73,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+This maintenance has been completed.
+
 NTS will be performing network maintenance affecting Library Annex and Executive Court on 6/29/22 between noon and 1pm.  Wired and wireless services from the buildings to main campus resources and the internet will be impacted during this time.
