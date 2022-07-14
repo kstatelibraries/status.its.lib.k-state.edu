@@ -37,6 +37,8 @@ params:
       link: https://krex.k-state.edu
     - name: OCLC
       description: Systems that are provided by OCLC will be tagged here as well.
+    - name: Phoenix
+      description: Library Network Storage
     - name: StaffNet
       link: https://staffnet.lib.k-state.edu
     - name: Website
