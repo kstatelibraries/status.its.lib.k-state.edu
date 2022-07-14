@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2022-06-08 18:40:00
+resolved_on: 2022-06-02 17:40:00
 
 # Affected components, must use exact names defined in site config
 affected:
