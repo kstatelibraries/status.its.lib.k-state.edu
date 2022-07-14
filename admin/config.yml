@@ -85,6 +85,7 @@ collections:
           - { label: "ILLiad", value: "ILLiad" }
           - { label: "K-REx", value: "K-REx" }
           - { label: "OCLC", value: "OCLC" }
+          - { label: "Phoenix", value: "Phoenix" }
           - { label: "StaffNet", value: "StaffNet" }
           - { label: "Website", value: "Website" }
 
