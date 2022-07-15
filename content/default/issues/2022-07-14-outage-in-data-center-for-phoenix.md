@@ -72,6 +72,11 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+Updated 7/15/22 at 11:56AM:
+The cooling in the datacenter has recovered at this time. I am currently running the disk integrity checks as a precaution, and expect this to finish later this afternoon.
+
+
+Original Message:
 Phoenix storage will be unavailable as the data center where it is stationed has no cooling due a leak in the main campus chilled water loop near Ward Hall.  They do not have an expected repair, and this may linger through the weekend.   
 
 This effects individuals that mount the following drives:
