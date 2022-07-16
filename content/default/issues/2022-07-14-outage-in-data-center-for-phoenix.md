@@ -7,7 +7,7 @@ draft: false
 date: 2022-07-14 09:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,10 +24,10 @@ max_severity: down
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: down
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2022-06-29 13:00:00
+resolved_on: 2022-07-15 21:10:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,6 +72,9 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+Update 7/25/22 at 9:10PM
+Access has been restored to Phoenix. Please submit a ticket if you run into any issues.
+
 Updated 7/15/22 at 11:56AM:
 The cooling in the datacenter has recovered at this time. I am currently running the disk integrity checks as a precaution, and expect this to finish later this afternoon.
 
