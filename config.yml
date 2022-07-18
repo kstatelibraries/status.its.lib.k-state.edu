@@ -35,6 +35,9 @@ params:
     - name: K-REx
       description: Institutional Repository
       link: https://krex.k-state.edu
+    - name: New Literacies Alliance LMS
+      description: NLA LMS based on Open edX
+      link: https://online.newliteraciesalliance.org
     - name: OCLC
       description: Systems that are provided by OCLC will be tagged here as well.
     - name: Phoenix
