@@ -83,10 +83,13 @@ collections:
           - { label: "Executive Court", value: "Executive Court" }
           - { label: "EZproxy", value: "EZproxy" }
           - { label: "ILLiad", value: "ILLiad" }
+          - { label: "Joan", value: "Joan" }
           - { label: "K-REx", value: "K-REx" }
           - { label: "New Literacies Alliance LMS", value: "New Literacies Alliance LMS" }
           - { label: "OCLC", value: "OCLC" }
           - { label: "Phoenix", value: "Phoenix" }
+          - { label: "Redmine", value: "Redmine" }
+          - { label: "Springshare", value: "Springshare" }
           - { label: "StaffNet", value: "StaffNet" }
           - { label: "Website", value: "Website" }
 
