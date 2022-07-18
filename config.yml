@@ -32,6 +32,8 @@ params:
       description: Remote Access System
     - name: ILLiad
       description: Interlibrary Loan System
+    - name: Joan
+      description: Joan Room Scheduling System
     - name: K-REx
       description: Institutional Repository
       link: https://krex.k-state.edu
@@ -42,6 +44,11 @@ params:
       description: Systems that are provided by OCLC will be tagged here as well.
     - name: Phoenix
       description: Library Network Storage
+    - name: Redmine
+      link: https://it.lib.k-state.edu/projects
+      description: Library Ticketing System
+    - name: Springshare
+      description: LibCal, LibGuides, and other Springy products
     - name: StaffNet
       link: https://staffnet.lib.k-state.edu
     - name: Website
