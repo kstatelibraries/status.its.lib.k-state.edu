@@ -7,7 +7,7 @@ draft: false
 date: 2022-07-21 13:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2022-07-21 16:30:00
+resolved_on: 2022-07-21 17:08:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,4 +72,9 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+2022-07-21 at 5:08PM
+This has been completed.
+
+----
+
 We will be upgrading the New Literacies Alliance Open edX instance from Lilac to Nutmeg. During this time, the system will be unavailable.
