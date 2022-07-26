@@ -4,10 +4,10 @@ title: Scheduled ILLiad Maintenance
 draft: false
 
 # Full date: 2019-03-29 17:26:09
-date: 2022-07-24 01:00:00
+date: 2022-07-30 01:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "resolved"
+status: "scheduled"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -16,7 +16,7 @@ status: "resolved"
 pinned: 
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 7 hours and 5 minutes
+duration: 4 hours and 45 minutes
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2022-07-24 08:15:00
+resolved_on: 2022-07-30 05:45:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,11 +73,10 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-This has been completed.
-
->System maintenance is scheduled to start at 2022-07-24 01:00 Central Time through 2022-07-24 08:15 Central Time affecting the following services:
+>System maintenance is scheduled to start at 2022-07-30 01:00 Central Time through 2022-07-30 05:45 Central Time affecting the following services:
 
 >OCLC is performing maintenance that might intermittently impact access to various products and services. If you experience problems, please retry your request. While we schedule maintenance on dates and times to minimize service disruption to our members worldwide, we recognize that this work might impact some users. We apologize for any disruption this may cause, and we appreciate your support and patience.
-ILLiad, Tipasa, WorldShare Interlibrary Loan
+
+>EZproxy (hosted), ILLiad, WorldCat Discovery
 
 >There are no enhancements with this event. Check the [OCLC System Status Dashboard](https://oclc.service-now.com/status) to determine if this event completes ahead of schedule. All times are displayed in 24-hour format.
