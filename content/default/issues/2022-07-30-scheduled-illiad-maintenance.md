@@ -7,7 +7,7 @@ draft: false
 date: 2022-07-30 01:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,7 +24,7 @@ max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: maintenance
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
 resolved_on: 2022-07-30 05:45:00
@@ -73,6 +73,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+This has been completed.
+
 >System maintenance is scheduled to start at 2022-07-30 01:00 Central Time through 2022-07-30 05:45 Central Time affecting the following services:
 
 >OCLC is performing maintenance that might intermittently impact access to various products and services. If you experience problems, please retry your request. While we schedule maintenance on dates and times to minimize service disruption to our members worldwide, we recognize that this work might impact some users. We apologize for any disruption this may cause, and we appreciate your support and patience.
