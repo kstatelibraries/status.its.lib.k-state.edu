@@ -7,7 +7,7 @@ draft: false
 date: 2022-08-21 14:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,10 +24,10 @@ max_severity: down
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: down
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2022-08-05 02:10:00
+resolved_on: 2022-08-21 14:43:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,4 +73,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+Ex Libris has reported that their engineers have resolved the disruption with our Alma and Primo VE (Search It) environments.  If you are still not able to access Alma or Search It, please refresh your browser.  If you still cannot access Alma or Search It after refreshing your browser, please submit a [Ticket](https://it.lib.k-state.edu/support.php)
+
 Ex Libris Alma Production and Primo VE (Search It) Production are currently encountering an outage.  Ex Libris is aware of the issue and are currently investigating the service disruption.
