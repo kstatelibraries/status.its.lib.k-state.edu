@@ -47,6 +47,7 @@ params:
     - name: Redmine
       link: https://it.lib.k-state.edu/projects
       description: Library Ticketing System
+    - name: Search-IT
     - name: Springshare
       description: LibCal, LibGuides, and other Springy products
     - name: StaffNet
