@@ -89,6 +89,7 @@ collections:
           - { label: "OCLC", value: "OCLC" }
           - { label: "Phoenix", value: "Phoenix" }
           - { label: "Redmine", value: "Redmine" }
+          - { label: "Search-IT", value: "Search-IT" }
           - { label: "Springshare", value: "Springshare" }
           - { label: "StaffNet", value: "StaffNet" }
           - { label: "Website", value: "Website" }
