@@ -6,7 +6,7 @@ draft: false
 date: 2022-12-29 04:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "scheduled"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -15,7 +15,7 @@ status: "scheduled"
 pinned:
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 30mn
+duration: 30 minutes
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
