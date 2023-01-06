@@ -32,11 +32,13 @@ params:
       description: Remote Access System
     - name: ILLiad
       description: Interlibrary Loan System
+    - name: Information Technology
     - name: Joan
       description: Joan Room Scheduling System
     - name: K-REx
       description: Institutional Repository
       link: https://krex.k-state.edu
+    - name: K-State Libraries
     - name: New Literacies Alliance LMS
       description: NLA LMS based on Open edX
       link: https://online.newliteraciesalliance.org
