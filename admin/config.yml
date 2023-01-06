@@ -83,8 +83,10 @@ collections:
           - { label: "Executive Court", value: "Executive Court" }
           - { label: "EZproxy", value: "EZproxy" }
           - { label: "ILLiad", value: "ILLiad" }
+          - { label: "Information Technology", value: "Information Technology" }
           - { label: "Joan", value: "Joan" }
           - { label: "K-REx", value: "K-REx" }
+          - { label: "K-State Libraries", value: "K-State Libraries" }
           - { label: "New Literacies Alliance LMS", value: "New Literacies Alliance LMS" }
           - { label: "OCLC", value: "OCLC" }
           - { label: "Phoenix", value: "Phoenix" }
