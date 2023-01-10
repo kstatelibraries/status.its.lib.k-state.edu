@@ -1,10 +1,10 @@
 ---
-title: Network disruptions will occur in the evening on Jan. 10
+title: Network disruptions will occur in the evening on Jan. 11
 
 draft: false
 
 # Full date: 2019-03-29 17:26:09
-date: 2023-01-10 19:30:00
+date: 2023-01-11 17:30:00
 
 # Status: "resolved" | "in_progress" | ""
 status: "scheduled"
@@ -16,7 +16,7 @@ status: "scheduled"
 pinned: 
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 4 hours 30 minutes
+duration: 6 hours 30 minutes
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-01-11 12:00:00
+resolved_on: 2023-01-12 00:00:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,6 +73,9 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-The Division of Information Technology will perform network maintenance between 7:30 p.m. and midnight on Tuesday, Jan. 10. During the maintenance, periodic disruptions will occur on the K-State networks and the internet.
+
+The Division of Information Technology will perform network maintenance between 5:30 p.m. and midnight on Wednesday, Jan. 11. During the maintenance, periodic disruptions will occur on the K-State networks, and individuals on campus may have trouble accessing the internet during the maintenance.
+
+
 
 Please see https://blogs.k-state.edu/it-news/2023/01/05/network-disruptions-will-occur-in-the-evening-on-jan-10/ for additional information.
