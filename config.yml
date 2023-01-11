@@ -27,7 +27,6 @@ params:
     - name: AtoM
       description: Access to Memory - Special Collections
       link: https://findingaids.lib.k-state.edu/
-    - name: Executive Court
     - name: EZproxy
       description: Remote Access System
     - name: ILLiad
