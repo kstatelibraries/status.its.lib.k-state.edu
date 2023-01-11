@@ -6,8 +6,8 @@ draft: false
 # Full date: 2019-03-29 17:26:09
 date: 2023-01-11 17:30:00
 
-# Status: "resolved" | "in_progress" | ""
-status: "scheduled"
+# Status: "resolved" | "in_progress" | "scheduled"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,10 +24,10 @@ max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: maintenance
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-01-12 00:00:00
+resolved_on: 2023-01-11 14:52:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,6 +73,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+The network maintenance that was scheduled for tonight has been canceled. IT is working with the vendor to reschedule the maintenance. {{< track "2023-01-11 14:52:00" >}}
+
 
 The Division of Information Technology will perform network maintenance between 5:30 p.m. and midnight on Wednesday, Jan. 11. During the maintenance, periodic disruptions will occur on the K-State networks, and individuals on campus may have trouble accessing the internet during the maintenance.
 
