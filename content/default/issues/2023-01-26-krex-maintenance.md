@@ -7,7 +7,7 @@ draft: false
 date: 2023-01-26 12:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,7 +24,7 @@ max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: maintenance
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
 resolved_on: 2023-01-26 13:30:00
@@ -72,4 +72,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+We ran into issues during the upgrade, and rolled back the changes. We will scheudle another attempt in the future once we work through the issues. {{< track "2023-01-26 13:28:00" >}}
+
 K-REx will be unavailable starting at 12PM on 1/26/2023 for system maintenance and software upgrade.
