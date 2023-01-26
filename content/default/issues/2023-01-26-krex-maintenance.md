@@ -72,6 +72,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-We ran into issues during the upgrade, and rolled back the changes. We will scheudle another attempt in the future once we work through the issues. {{< track "2023-01-26 13:28:00" >}}
+We ran into issues during the upgrade, and rolled back the changes. We will schedule another attempt in the future once we work through the issues. {{< track "2023-01-26 13:28:00" >}}
 
 K-REx will be unavailable starting at 12PM on 1/26/2023 for system maintenance and software upgrade.
