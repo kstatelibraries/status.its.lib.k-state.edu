@@ -7,7 +7,7 @@ draft: false
 date: 2023-01-27 07:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: disrupted
 current_severity: disrupted
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-01-28 13:30:00
+resolved_on: 2023-01-27 09:06:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,5 +72,7 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-{{< track "2023-01-27 07:30:00" >}}
-Issues connecting to the K-State VPN via GlobalProtect have been reported and is currently being investigated.
+{{< track "2023-01-27 09:06:00" >}} -- It should be working now.  Please report back if not.
+
+
+{{< track "2023-01-27 07:30:00" >}} -- Issues connecting to the K-State VPN via GlobalProtect have been reported and is currently being investigated.
