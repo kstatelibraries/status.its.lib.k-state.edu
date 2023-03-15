@@ -4,7 +4,7 @@ title: Network disruptions will occur in the evening on March 15th
 draft: false
 
 # Full date: 2019-03-29 17:26:09
-date: 2023-03-15 17:30:00
+date: 2023-03-15 18:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
 status: "scheduled"
@@ -16,7 +16,7 @@ status: "scheduled"
 pinned: 
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 12 hours 30 minutes
+duration: 12 hours minutes
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
@@ -73,6 +73,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-The evening of March 15th Campus IT will be performing maintenance to the campus network starting at 5:30PM. Hale Library will have brief outages during the maintenance periord while intenret traffic is routed over the different pathways on campus. 
+{{< track "2023-03-15 09:02:00" >}} -- The Start Time has Changed to 6PM this evening.
 
-> During the work, if basic functionality (Internet connectivity, routing, GlobalProtect, VPN, or building connectivity does not work, the issues will be worked on to try to find a resolution. If we run into unforeseen issues where this functionality is not performing correctly and doesn’t appear that it will be in a timely manner, we will reach a point where we roll back to the original hardware. If problems can be resolved quickly enough, we will reschedule for March 16th for the same 5:30pm to 6am March 17th.
+The evening of March 15th Campus IT will be performing maintenance to the campus network starting at 6:00PM. Hale Library will have brief outages during the maintenance periord while intenret traffic is routed over the different pathways on campus.
+
+> During the work, if basic functionality (Internet connectivity, routing, GlobalProtect, VPN, or building connectivity does not work, the issues will be worked on to try to find a resolution. If we run into unforeseen issues where this functionality is not performing correctly and doesn’t appear that it will be in a timely manner, we will reach a point where we roll back to the original hardware. If problems can be resolved quickly enough, we will reschedule for March 16th for the same 6:00pm to 6am March 17th.
