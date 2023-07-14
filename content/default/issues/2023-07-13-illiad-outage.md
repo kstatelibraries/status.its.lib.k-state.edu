@@ -7,7 +7,7 @@ draft: false
 date: 2023-07-13 8:45:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: down
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-05-25 11:32:00
+resolved_on: 2023-07-13 21:15:00
 # Affected components, must use exact names defined in site config
 affected:
   - ILLiad
@@ -71,4 +71,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+Access to ILLiad has been restored
+
 ILLiad is currently experiencing an outage, and we are working with the vendor to resolve the outage.
