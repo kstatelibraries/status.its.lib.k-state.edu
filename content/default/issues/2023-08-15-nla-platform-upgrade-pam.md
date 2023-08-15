@@ -7,7 +7,7 @@ draft: false
 date: 2023-08-15 13:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: down
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-08-15 14:00:00
+resolved_on: 2023-08-15 13:57:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,4 +72,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+The upgrade to the Plam release has been completed {{< track "2023-08-15 13:57:00" >}}
+
 We will be upgrading the New Literacies Alliance Open edX instance from Olive to Palm. During this time, the system will be unavailable.
