@@ -32,8 +32,8 @@ params:
     - name: ILLiad
       description: Interlibrary Loan System
     - name: Information Technology
-    - name: Joan
-      description: Joan Room Scheduling System
+    - name: Room Scheduling
+      description: Room Scheduling System
     - name: K-REx
       description: Institutional Repository
       link: https://krex.k-state.edu
