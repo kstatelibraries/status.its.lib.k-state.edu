@@ -83,7 +83,7 @@ collections:
           - { label: "EZproxy", value: "EZproxy" }
           - { label: "ILLiad", value: "ILLiad" }
           - { label: "Information Technology", value: "Information Technology" }
-          - { label: "Joan", value: "Joan" }
+          - { label: "Room Scheduling", value: "Room Scheduling" }
           - { label: "K-REx", value: "K-REx" }
           - { label: "K-State Libraries", value: "K-State Libraries" }
           - { label: "New Literacies Alliance LMS", value: "New Literacies Alliance LMS" }
