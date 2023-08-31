@@ -52,5 +52,7 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2023-08-31 13:20:00" >}} -- We are still working with the vendor to restore the signs back to 100%. At this time, the following rooms are not displaying correct information: 103A, 103F, 103H, 103J, 103K, 109, 181 (one of the signs), 407, and 581 (one of the signs).
+
 We are experiencing some issues with our E-ink Displays (JOAN replacements).
 We are working on a solution and will send out another notice, when the issue is resolved.
