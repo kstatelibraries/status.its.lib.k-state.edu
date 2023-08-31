@@ -52,6 +52,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2023-08-31 15:50:00" >}} -- All signs are currently up. We do have another follow up call with the vendor later today, and will update this once we have more information.
+
 {{< track "2023-08-31 15:00:00" >}} -- The only sign at this time not updating is one of the signs for 581. We do have another follow up call with the vendor later today, and will update this once we have more information.
 
 {{< track "2023-08-31 13:20:00" >}} -- We are still working with the vendor to restore the signs back to 100%. At this time, the following rooms are not displaying correct information: 103A, 103F, 103H, 103J, 103K, 109, 181 (one of the signs), 407, and 581 (one of the signs).
