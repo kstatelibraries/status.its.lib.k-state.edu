@@ -7,7 +7,7 @@ draft: false
 date: 2023-08-30 10:07:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: disrupted
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-08-15 13:57:00
+resolved_on: 2023-08-31 16:24:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -52,6 +52,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2023-08-31 16:24:00" >}} -- All signs are currently up, and functioning. Please submit a ticket if you are experiencing any issues.
+
 {{< track "2023-08-31 15:50:00" >}} -- All signs are currently up. We do have another follow up call with the vendor later today, and will update this once we have more information.
 
 {{< track "2023-08-31 15:00:00" >}} -- The only sign at this time not updating is one of the signs for 581. We do have another follow up call with the vendor later today, and will update this once we have more information.
