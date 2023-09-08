@@ -31,7 +31,7 @@ resolved_on: 2023-01-11 14:52:00
 
 # Affected components, must use exact names defined in site config
 affected:
-  - Information Technology
+  - Division of Information Technology
   - K-State Libraries
 
 # If set and the status is in_progress, this feed will be embedded

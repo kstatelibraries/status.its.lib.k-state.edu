@@ -31,7 +31,8 @@ params:
       description: Remote Access System
     - name: ILLiad
       description: Interlibrary Loan System
-    - name: Information Technology
+    - name: Division of Information Technology
+      link: https://www.k-state.edu/it/outages/
     - name: Room Scheduling
       description: Room Scheduling System
     - name: K-REx
