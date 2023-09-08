@@ -82,7 +82,7 @@ collections:
           - { label: "AtoM", value: "AtoM" }
           - { label: "EZproxy", value: "EZproxy" }
           - { label: "ILLiad", value: "ILLiad" }
-          - { label: "Information Technology", value: "Information Technology" }
+          - { label: "Division of Information Technology", value: "Division of Information Technology" }
           - { label: "Room Scheduling", value: "Room Scheduling" }
           - { label: "K-REx", value: "K-REx" }
           - { label: "K-State Libraries", value: "K-State Libraries" }
