@@ -7,7 +7,7 @@ draft: false
 date: 2023-09-08 08:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,13 +27,14 @@ max_severity: down
 current_severity: down
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-08-31 16:24:00
+resolved_on: 2023-09-09 02:34:00
 
 # Affected components, must use exact names defined in site config
 affected:
   - Division of Information Technology
   - K-State Libraries
   - Redmine
+  - K-REx
 
 twitterFeed: 
 
@@ -53,6 +54,10 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2023-09-09 02:34:00" >}} - All production resources are back up and running. If you notice issues that appear to be related to the services affected by the outage, please respond to this conversation and submit a [ticket](https://it.lib.k-state.edu/support.php).
+
+
+{{< track "2023-09-08 08:30:00" >}}
 From the Divsion of IT:
 > KU has reported a power issue at one of the data centers we occupy in Lawrence. This is affecting a number of services. No estimate on when the issue will be resolved.
 >
