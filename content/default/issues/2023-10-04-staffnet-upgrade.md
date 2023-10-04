@@ -7,7 +7,7 @@ draft: false
 date: 2023-10-04 17:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-10-04 18:00:00
+resolved_on: 2023-10-04 17:39:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -47,4 +47,5 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{ track "2023-10-04 17:39:00" >}} - Upgrade Complete. If you run into any issues, please submit a ticket.
 StaffNet will be unavailable during the scheduled maintenance in order to perform critical system updates.
