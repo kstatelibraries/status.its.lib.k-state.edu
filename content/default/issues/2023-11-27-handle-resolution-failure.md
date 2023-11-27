@@ -7,7 +7,7 @@ draft: false
 date: 2023-11-27 08:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: disrupted
 current_severity: disrupted
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2023-11-06 20:28:00
+resolved_on: 2023-11-27 12:55:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -50,3 +50,5 @@ section: issue
 Currently the SSL Certificate for hdl.handle.net has been revoked, so some browsers are stopping access to the the site. This impacts both K-REx and any site that utilizies the Handle Service from CNRI.
 
 We have reached out to their support, and are waiting for a response.
+
+> This is resolved.  We haven't yet finalized the root cause analysis, but the most likely explanation is a mistake made by us while requesting a new certificate, which had been scheduled for update early in December.  We apologize for the inconvenience.
