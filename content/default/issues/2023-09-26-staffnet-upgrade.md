@@ -47,5 +47,7 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-{{ track "2023-09-26 22:19:00" >}} - Upgrade Complete. If you run into any issues, please submit a ticket.
+{{ track "2023-09-26 22:19:00" >}}
+Upgrade Complete. If you run into any issues, please submit a ticket.
+<br />
 StaffNet will be unavailable during the scheduled maintenance in order to perform necessary system updates.
