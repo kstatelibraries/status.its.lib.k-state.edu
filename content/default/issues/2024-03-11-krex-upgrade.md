@@ -24,7 +24,7 @@ max_severity: maintenance
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: maintenance
+current_severity: monitoring
 
 # Full date: 2019-03-29 17:26:09
 resolved_on: 2024-03-11 13:00:00
@@ -72,8 +72,10 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2024-03-11 12:51:00" >}}
+The upgrade has been completed. We are currently reindexing the content, so search may be incomplete. Students should be able to sumbmit documents as needed. Please submit a ticket if you encounter any issues.
+<hr />
+
 K-REx will be unavailable starting at 12PM on 3/11/2024. We will be upgrading the frontend and backend systems to the latest release of DSpace. 
 
 Once the system has been upgraded, we will start reindexing the content so it is discoverable, and this should take about an hour to complete, but students will be able to submit documents while this is happening. 
-
-Please note, that one area we have been unable to test is handle resolution, but will work to test that once the new system is online.
