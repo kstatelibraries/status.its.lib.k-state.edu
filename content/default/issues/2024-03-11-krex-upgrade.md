@@ -7,7 +7,7 @@ draft: false
 date: 2024-03-11 12:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -72,6 +72,9 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2024-03-11 14:34:00" >}}
+Reindexing has been completed. Please submit a ticket if you encounter any issues.
+<hr />
 {{< track "2024-03-11 12:51:00" >}}
 The upgrade has been completed. We are currently reindexing the content, so search may be incomplete. Students should be able to sumbmit documents as needed. Please submit a ticket if you encounter any issues.
 <hr />
