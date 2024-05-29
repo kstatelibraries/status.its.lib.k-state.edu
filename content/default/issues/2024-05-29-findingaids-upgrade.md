@@ -7,7 +7,7 @@ draft: false
 date: 2024-05-29 08:15:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2024-05-29 09:00:00
+resolved_on: 2024-05-29 09:05:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,4 +72,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+Upgrade is completed.
+
 We will be upgrading Special Collections Finding Aid system. This will include both backend upgrades, and frontend interface improvements.
