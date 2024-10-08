@@ -7,7 +7,7 @@ draft: false
 date: 2024-10-24 13:15:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: down
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2024-05-29 09:05:00
+resolved_on: 2024-10-08 13:50:00
 
 # Affected components, must use exact names defined in site config
 affected:
