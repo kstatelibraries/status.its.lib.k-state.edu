@@ -7,7 +7,7 @@ draft: false
 date: 2024-10-22 08:35:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: disrupted
 current_severity: disrupted
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2024-10-08 13:50:00
+resolved_on: 2024-10-22 08:40:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,4 +72,4 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-The ILLiad webpages are currently down, so patrons cannot access their ILL accounts.  IT is working to restore that connection.
+The libraries website is currently unavailable, and we are working to restore access at this time.
