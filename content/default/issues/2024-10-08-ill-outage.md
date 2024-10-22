@@ -4,7 +4,7 @@ title: ILL Webpages Down
 draft: false
 
 # Full date: 2019-03-29 17:26:09
-date: 2024-10-24 13:15:00
+date: 2024-10-08 13:15:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
 status: "resolved"
