@@ -7,7 +7,7 @@ draft: false
 date: 2025-01-13 11:28:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: down
 current_severity: down
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2024-10-22 08:40:00
+resolved_on: 2025-01-13 15:00:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,6 +72,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+3:00PM the issue has been resolved.
+
 12:38PM The issue has been idenfitied, and we are working to resolve the issue.
 
 The room reservation signs are currently offline while we work to resolve an authentication error.
