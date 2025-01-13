@@ -72,4 +72,6 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+12:38PM The issue has been idenfitied, and we are working to resolve the issue.
+
 The room reservation signs are currently offline while we work to resolve an authentication error.
