@@ -74,6 +74,11 @@ section: issue
 ---
 From Springshare: 
 
+
+2025-04-10 2:00 PM ET - All Regions - LibGuides: Our developers have ensured that all services are back up and running, and we are monitoring the situation further before giving the all-clear.
+
+Thanks for your patience as we address this issue!
+
 2025-04-10 11:40 AM ET - All Regions - LibGuides: We are currently experiencing service disruptions due to a high volume of automated traffic - bot activity - that is causing repeated DDoS (Distributed Denial of Service) attacks on our servers. Our Security and Server team is working on getting this error resolved as quickly as possible. We apologize about any confusion or frustration this downtime is causing.
 
 Thanks for your patience as we address this issue!
