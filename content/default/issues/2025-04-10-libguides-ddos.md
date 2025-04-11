@@ -7,7 +7,7 @@ draft: false
 date: 2025-04-10 10:40:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: disrupted
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2025-02-06 10:49:00
+resolved_on: 2025-04-10 13:25:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -74,6 +74,7 @@ section: issue
 ---
 From Springshare: 
 
+2025-04-10 4:25 PM ET - All Regions - LibGuides: After careful monitoring of our servers, we have been given the all-clear from our developers. Thank you for your patience, and we're sorry about any inconvenience this has caused!
 
 2025-04-10 2:00 PM ET - All Regions - LibGuides: Our developers have ensured that all services are back up and running, and we are monitoring the situation further before giving the all-clear.
 
