@@ -7,7 +7,7 @@ draft: false
 date: 2025-05-29 09:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: disrupted
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2025-04-10 13:25:00
+resolved_on: 2025-05-29 09:35:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,4 +72,7 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2025-05-29 09:35:00" >}}
+Upgrade Completed
+
 We will be performing an upgrade of our Ticketing system at 9:30AM this morning. Less than 15 minutes of service interuption is expected.
