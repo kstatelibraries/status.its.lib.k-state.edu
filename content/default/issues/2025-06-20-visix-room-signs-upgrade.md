@@ -7,7 +7,7 @@ draft: false
 date: 2025-06-20 15:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: down
 current_severity: down
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2025-01-13 15:00:00
+resolved_on: 2025-06-20 16:54:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -72,5 +72,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2025-06-20 16:54:00" >}}
+Upgrade Completed
+
 We will be doing an upgrade with the vendor on the room display software. It is expected to take two hours to complete and during this time, the room signs will not update.
 The schedules on them will be current as of 3PM when we begin the upgrade. Once the upgrade has completed, they will refresh at that time.
