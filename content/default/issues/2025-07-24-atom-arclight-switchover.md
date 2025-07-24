@@ -7,7 +7,7 @@ draft: false
 date: 2025-07-24 08:30:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -27,7 +27,7 @@ max_severity: maintenance
 current_severity: maintenance
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2024-05-29 09:05:00
+resolved_on: 2025-07-24 09:24:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,6 +73,9 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
+{{< track "2025-07-24 09:24:00" >}}
+Switchover completed. If you run into any issues, please submit a ticket.
+
 Library IT will be switching over the front end of the Special Collections Archival Descriptions site from using AtoM to utilizing ArcLight as the platform.
 
 AtoM the staff interface, will be receiving a new url <https://atom.lib.k-state.edu>, while the frontend (public) interface will retain the existing url <https://archivaldescriptions.lib.k-state.edu>.
