@@ -80,6 +80,7 @@ collections:
           - { label: "Annex", value: "Annex" }
           - { label: "Archivematica", value: "Archivematica" }
           - { label: "AtoM", value: "AtoM" }
+          - { label: "ArcLight", value: "ArcLight" }
           - { label: "EZproxy", value: "EZproxy" }
           - { label: "ILLiad", value: "ILLiad" }
           - { label: "Division of Information Technology", value: "Division of Information Technology" }
