@@ -26,7 +26,10 @@ params:
     - name: Archivematica
     - name: AtoM
       description: Access to Memory - Special Collections
-      link: https://findingaids.lib.k-state.edu/
+      link: https://atom.lib.k-state.edu/
+    - name: ArcLight
+      description: Special Collections Archival Descriptions
+      link: https://archivaldescriptions.lib.k-state.edu/
     - name: EZproxy
       description: Remote Access System
     - name: ILLiad
