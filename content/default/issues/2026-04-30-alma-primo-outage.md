@@ -20,14 +20,14 @@ duration:
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
-max_severity: down
+max_severity: disrupted
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: ok
+current_severity: monitoring
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 2022-08-21 14:43:00
+resolved_on: 
 
 # Affected components, must use exact names defined in site config
 affected:
