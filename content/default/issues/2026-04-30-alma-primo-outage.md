@@ -1,5 +1,5 @@
 ---
-title: Alma and Primo VE (Search It) Down
+title: Alma and Primo VE (Search It) Performance Issues
 
 draft: false
 
@@ -73,6 +73,8 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-Ex Libris has reported that some functionality in Alma and Primo (Search It) offers, is intermittently down, because the CZ component is not functioning as expected.Our teams are actively working to restore full service, and we appreciate your patience while we resolve this issue. Updates will be shared as soon as we have more information.[Ticket](https://it.lib.k-state.edu/support.php)
+<!-- Ex Libris has reported that their engineers have resolved the disruption with our Alma and Primo VE (Search It) environments.  If you are still not able to access Alma or Search It, please refresh your browser.  If you still cannot access Alma or Search It after refreshing your browser, please submit a [Ticket](https://it.lib.k-state.edu/support.php) -->
+
+Ex Libris has reported that some functionality in Alma and Primo (Search It) offers, is intermittently down, because the CZ component is not functioning as expected.Our teams are actively working to restore full service, and we appreciate your patience while we resolve this issue. Updates will be shared as soon as we have more information.
 
 
