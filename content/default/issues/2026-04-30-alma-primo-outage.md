@@ -7,7 +7,7 @@ draft: false
 date: 2026-04-30 10:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -20,14 +20,14 @@ duration:
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
-max_severity: disrupted
+max_severity: ok
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: monitoring
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-resolved_on: 
+resolved_on: 2026-05-01 07:30:58
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,7 +73,7 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-<!-- Ex Libris has reported that their engineers have resolved the disruption with our Alma and Primo VE (Search It) environments.  If you are still not able to access Alma or Search It, please refresh your browser.  If you still cannot access Alma or Search It after refreshing your browser, please submit a [Ticket](https://it.lib.k-state.edu/support.php) -->
+Ex Libris has reported that their engineers have resolved the disruption with our Alma and Primo VE (Search It) environments.  If you are still not able to access Alma or Search It, please refresh your browser.  If you still cannot access Alma or Search It after refreshing your browser, please submit a [Ticket](https://it.lib.k-state.edu/support.php)
 
 Ex Libris has reported that some functionality in Alma and Primo (Search It) that it offers, is intermittently down, because the CZ component is not functioning as expected.  Ex Libris is actively working to restore full service, and we appreciate your patience while they try to resolve this issue. Updates will be shared as soon as we have more information.
 
