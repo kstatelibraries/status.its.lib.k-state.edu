@@ -1,5 +1,5 @@
 ---
-title: Alma and Primo VE (Search It) Performance Issues
+title: Alma and Primo VE Analytics Performance Issues
 
 draft: false
 
