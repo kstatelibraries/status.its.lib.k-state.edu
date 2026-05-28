@@ -7,7 +7,7 @@ draft: false
 date: 2026-05-28 14:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "in_progress"
+status: "resolved"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -20,14 +20,14 @@ duration:
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
-max_severity: down
+max_severity: ok
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: monitoring
+current_severity: ok
 
 # Full date: 2019-03-29 17:26:09
-# resolved_on: 2026-05-01 07:30:58
+resolved_on: 2026-05-28 14:30:00
 
 # Affected components, must use exact names defined in site config
 affected:
@@ -73,7 +73,7 @@ section: issue
 
 ## Enter below issue description and subsequent updates if any
 ---
-<!-- Ex Libris has reported that their engineers have resolved the disruption with our Alma and Primo VE (Search It) environments.  If you are still not able to access Alma or Search It, please refresh your browser.  If you still cannot access Alma or Search It after refreshing your browser, please submit a [Ticket](https://it.lib.k-state.edu/support.php) -->
+Ex Libris has reported that their engineers have resolved the disruption with our Alma and Primo VE (Search It) environments.  If you are still not able to access Alma or Search It, please refresh your browser.  If you still cannot access Alma or Search It after refreshing your browser, please submit a [Ticket](https://it.lib.k-state.edu/support.php)
 
 Ex Libris has reported that Alma and Primo Analytics is currently unavailable, due to a system issue in your environment. Ex Libris engineers are working to quickly fix the issue.  Updates will be shared as soon as we have more information.
 
