@@ -16,11 +16,11 @@ status: "resolved"
 pinned: 
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 45 minutes
+duration: 15 minutes
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
-max_severity: maintenance 
+max_severity: down 
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
